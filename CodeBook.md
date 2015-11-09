@@ -5,10 +5,10 @@ This file contains the variables that the meansGroupByActivityAndSubjectDataSet.
 
 # Identifiers
 
-* subject 
-* activity 
+* subject : ID identifier of the subjects 
+* activity : The activity perfoms by the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING).
 
-# Measurements
+# Means and Standar Deviantions of Measurements 
 
 * tBodyAcc-mean()-X 
 * tBodyAcc-mean()-Y 
