@@ -6,7 +6,7 @@ This file contains the variables that the meansGroupByActivityAndSubjectDataSet.
 # Identifiers
 
 * subject : ID identifier of the subjects 
-* activity : The activity perfoms by the subject (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING).
+* activity : The activity perfoms by the subject (`WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`,`SITTING`,`STANDING`,`LAYING`).
 
 # Means and Standar Deviantions of Measurements 
 
