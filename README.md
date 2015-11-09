@@ -11,5 +11,3 @@ The script run_analysis.R perfoms the following:
 * Names correctly the data frames subjects and activities.
 * Merge the the data sets.
 * Calculate the means of the features grouped by activities and subjects.
-
-
